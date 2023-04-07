@@ -17,6 +17,7 @@ public class LoginPage {
 			this.driver=driver;
 		}
 		 
+//Attributes for logging to the site
  @FindBy(xpath="//input[@type='text']")
  WebElement userName;
  
