@@ -1,11 +1,13 @@
 //GeoConnect Application
 
-package FrmWrk_PageObject;
+package LoginModule;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+
+import FrmWrk_PageObject.Menu;
 
 public class LoginPage {
 
