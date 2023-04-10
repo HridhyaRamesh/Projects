@@ -45,6 +45,7 @@ public class LoginPage {
 		
 	}
 	
+	//send username and password
 public Menu loginMCF(){
 		
 		userName().sendKeys("hridhya.ramesh@speehive.com");
